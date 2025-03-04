@@ -106,12 +106,15 @@ Our commitment to delivering insights into semiconductor market share and indust
 FAQs –
  
 Q. What is a scrubber in the semiconductor industry?
+
 A. In the semiconductor industry, a scrubber is a system used to remove hazardous gases, such as volatile organic compounds (VOCs), toxic, and corrosive gases, from the manufacturing environment. These scrubbers are essential for maintaining air quality and ensuring safe working conditions. They work by neutralizing or filtering out harmful emissions, thus protecting both the environment and the health of workers involved in semiconductor production.
 
 Q. What is the purpose of a gas scrubber?
+
 A.  A gas scrubber in the semiconductor industry is designed to remove harmful gases, such as toxic or corrosive fumes, from the air. Its primary purpose is to ensure a safe work environment by neutralizing or filtering out these gases, thus protecting both human health and the environment.
 
 Q. What gases are used in semiconductors?
+
 A. In semiconductor manufacturing, gases like silane (SiH4), ammonia (NH3), hydrogen (H2), nitrogen (N2), tetrafluoromethane (CF4), and chlorine (Cl2) are commonly used for processes such as deposition, etching, doping, and oxidation. These gases play key roles in various stages of semiconductor fabrication.
 
 CONTACT US:
