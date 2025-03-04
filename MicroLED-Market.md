@@ -1,6 +1,6 @@
 The global MicroLED market was valued at US$ 977.5 million in 2022 and is projected to reach US$ 1231.1 million by 2030, at a CAGR of 3.3% during the forecast period. The influence of COVID-19 and the Russia-Ukraine War were considered while estimating market sizes.
 
-[Download Sample Report PDF]([url](https://semiconductorinsight.com/report/microled-market/))
+[Download Sample Report PDF](https://semiconductorinsight.com/report/microled-market/)
 •	Quick Dispatch
 
 All Orders
