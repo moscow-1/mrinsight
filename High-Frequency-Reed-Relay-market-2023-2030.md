@@ -1,4 +1,4 @@
-<h1>Ceramic Packages Market 2025-2032</h1>
+<h1>High Frequency Reed Relay market2025-2032</h1>
 The Global High Frequency Reed Relay market was valued at US$ 63.7 million in 2023 and is projected to reach US$ 102.3 million by 2030, exhibiting a Compound Annual Growth Rate (CAGR) of 6.8% during the forecast period (2023-2030). 
 
 [Download Sample Report PDF](https://semiconductorinsight.com/download-sample-report/?product_id=42136)
