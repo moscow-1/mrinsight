@@ -3,7 +3,7 @@
 The global High Purity Precious MetalsTarget Market size was estimated at USD 568 million in 2023 and is projected to reach USD 973.45 million by 2030, exhibiting a CAGR of 8.00% during the forecast period.
 North America High Purity Precious MetalsTarget market size was USD 148.00 million in 2023, at a CAGR of 6.86% during the forecast period of 2025 through 2030.
 
-[<h3>Download Sample Report PDF</h3>](https://semiconductorinsight.com/download-sample-report/?product_id=82522)
+[Download Sample Report PDF](https://semiconductorinsight.com/download-sample-report/?product_id=82522)
 
 <h2>High Purity Precious MetalsTarget Market Overview</h2>
 
